@@ -23,6 +23,10 @@ This project is for classifying the Remaining Useful Life (RUL) Time of bearing
 
 6. **Model Training**
    - Train the modified CNN on the image dataset, utilizing transfer learning techniques.
+7. **Evaluation Results**
+     ![image](https://github.com/user-attachments/assets/170131b3-2a26-456b-a032-dce5eb058f2b)
+     ![image](https://github.com/user-attachments/assets/c1759fca-0025-4797-bd6d-0fa70ba0170f)
+
 
 7. **Model Evaluation**
    - Assess model performance using accuracy, precision, recall, and other metrics.
